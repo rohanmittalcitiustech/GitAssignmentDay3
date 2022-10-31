@@ -1,2 +1,8 @@
 Added by Rohan
+<<<<<<< HEAD
+Conflict between Nidhi and Rohan
+=======
+
+again resolving
+>>>>>>> rohansbranch
 Conflict between Nidhi and Rohan
