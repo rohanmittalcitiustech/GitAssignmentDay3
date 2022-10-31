@@ -1,3 +1,10 @@
 Added by Rohan
 
+<<<<<<< HEAD
 Conflict between Nidhi and Rohan
+=======
+
+
+
+resolving for the 100th time
+>>>>>>> rohansbranch
